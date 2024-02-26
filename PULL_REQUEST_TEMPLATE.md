@@ -8,4 +8,4 @@ Link to issue or stub on [Product and Engineering Board](https://github.com/orgs
 
 - [ ] Indicate merge type [stag] or [prod] in the title
 - [ ] Ensure that this branch was forked from master
-- [ ] Create the [stag] and [prod] PRs at the same time, as they should both be using the same branch.
+- [ ] Create both the [stag] and [prod] PRs (they should be the same branch)
