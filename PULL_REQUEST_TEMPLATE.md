@@ -7,5 +7,7 @@ Link to issue or stub on [Product and Engineering Board](https://github.com/orgs
 **PR Checklist**
 
 - [ ] Indicate merge type [stag] or [prod] in the title
-- [ ] Ensure that this branch was forked from master (and up to date with the latest version of master)
+- [ ] Ensure that this branch was forked from master (~~the latest~~ a _recent_ version of master)
 - [ ] Create both the [stag] and [prod] PRs (they should be the same branch)
+- [ ] The commit hashes match on the [stag] and [prod] PR (this can somehow still happen when using the same branch)
+- [ ] This PR is ready for review
