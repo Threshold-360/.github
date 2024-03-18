@@ -12,4 +12,4 @@ Link to issue or stub on the [Product and Engineering Board](https://github.com/
 - [ ] The commit hashes match on the [stag] and [prod] PR (this can somehow still happen when using the same branch)
 - [ ] Indicated any open PRs that this depends on that need to be merged first
 - [ ] I have looked through the "Files changed" (diff) for myself to check for errors
-- [ ] This PR is ready for review and I have moved the status of the associated issue to into Code Review on the project board
+- [ ] This PR is ready for review and I have moved the status of the associated issue to "Code Review" on the project board
